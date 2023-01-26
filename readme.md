@@ -36,6 +36,6 @@
 
 #####   ~~같이 게임 할 사람?~~
 
-<img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=white"/>
 
 ###### 사람이냐 #1514
