@@ -2,3 +2,5 @@
 ![header](https://blog.kakaocdn.net/dn/b04wmN/btrpPUUTlsc/BwUxKzSYXKAyzFIv4jKH11/img.png)
 
 > 할게 없어서 올리는 주챔(주로 플레이하는 캐릭터)
+
+예성 : 서폿 럭스(21렙 늅이!)
