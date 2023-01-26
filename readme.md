@@ -19,6 +19,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ff3300&height=200&section=header&text=김예성&fontSize=70&animation=fadeIn&fontColor=FFFFFF)
 
+>겜마고 4기생!
+
 ### **하는 게임 : 리듬게임, 이터널리턴, 오버워치, 롤, 마스터 듀얼, 마크, 나이트워커(1월 26일(목) 출시).. 등**
 
 
@@ -30,3 +32,10 @@
 
 ------------
 >진후야 타르코프 사주면 한다니까?
+
+
+#####   ~~같이 게임 할 사람?~~
+
+<img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=white"/> 
+
+###### 사람이냐 #1514
